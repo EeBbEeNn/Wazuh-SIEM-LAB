@@ -18,7 +18,7 @@ Project activities include setting up wazuh OVA on Virtual Box, Accessing the Da
 - <b>Ubuntu</b>
 - <b>Kali Linux</b>
 
-<h2>Project Activities performed & Imgaes of its walk-through:</h2>
+<h2>Project Activities performed & Images of its walk-through:</h2>
 
 <h2>🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯</h2>
 
